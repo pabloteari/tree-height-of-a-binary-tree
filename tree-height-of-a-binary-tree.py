@@ -13,5 +13,4 @@ for i in range(inputNodesLimit):
     tree.create(arrayNodes[i])
 
 # Print height
-# print(tree.getHeight())
-print(tree)
+print(tree.getHeight())
